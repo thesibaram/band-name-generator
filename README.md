@@ -17,7 +17,7 @@ Welcome to the **Band Name Generator**, a fun and colorful command-line tool tha
 
 ## 🧠 How It Works
 
-1. You enter the name of the city you grew up in. `(e.g. Dlehi)`
+1. You enter the name of the city you grew up in. `(e.g. Delhi)`
 2. You enter your pet’s name.`(e.g. Roxy)`
 3. It generates a band name like `DELHI ROXY` with colorful formatting and a cowsay cow.
 
